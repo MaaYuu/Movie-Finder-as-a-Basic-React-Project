@@ -1,4 +1,4 @@
-Used Libraries
+Used Libraries:
 
 * React
 * Bootstrap
