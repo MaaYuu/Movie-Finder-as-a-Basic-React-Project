@@ -10,6 +10,7 @@ Features:
 * Searching film
 * Deleting film
 
+![image](https://user-images.githubusercontent.com/35421890/156438364-1c34f507-dd7b-4ea4-865d-72f52f9f184f.png)
 
 
 # Getting Started with Create React App
